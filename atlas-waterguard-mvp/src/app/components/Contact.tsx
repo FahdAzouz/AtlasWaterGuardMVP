@@ -122,7 +122,7 @@ export default function Contact() {
                                 </div>
                                 <div>
                                     <h4 className="text-lg font-medium text-green-800 dark:text-green-300 mb-1">Thank you!</h4>
-                                    <p className="text-green-700 dark:text-green-400">Your message has been sent successfully. We'll get back to you soon.</p>
+                                    <p className="text-green-700 dark:text-green-400">Your message has been sent successfully. We&apos;ll get back to you soon.</p>
                                 </div>
                             </div>
                         ) : (

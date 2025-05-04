@@ -1,7 +1,5 @@
 "use client";
 
-import { useEffect } from 'react';
-
 const steps = [
     {
         number: "01",

@@ -1,0 +1,43 @@
+Concept Statement for Atlas WaterGuard  
+New Business Concept 
+Atlas WaterGuard is a climate-smart water management platform that empowers Moroccan farmers 
+to combat water scarcity through AI-driven irrigation. 
+Product 
+Atlas WaterGuard combines solar-powered IoT soil sensors, a voice-based mobile app, and a 
+government-linked Digital ID system to enforce fair water quotas. Farmers receive real-time irrigation 
+alerts and earn mobile credits for conserving water, redeemable for drought-resistant seeds or 
+fertilizer. 
+Target Market 
+• Primary: Smallholder farmers in drought-prone regions (e.g., Souss-Massa, Ben Guerir). 
+• Secondary: Moroccan government agencies (ONCA, Ministry of Agriculture) seeking to 
+achieve National Irrigation Strategy goals. 
+Why Atlas WaterGuard? 
+• Proven Impact: Pilot projects reduced water use by 35% in citrus farms. 
+• Cost-Effective: Sensors cost 60% less than  competitors’ models. 
+• Policy-Aligned: Integrates with RAMED and National Land Registry for equitable resource 
+distribution. 
+Special Feature – No Other Platform Does This 
+Atlas WaterGuard’s “Water Credit” system rewards farmers with immediate mobile-based incentives, 
+creating a direct link between conservation and economic benefit. Also have a forum used by farmers 
+to discuss different trends in forming. 
+Management Team 
+Atlas WaterGuard is founded by five students specializing in IoT, AI, and finance with hands-on 
+experience in deploying sensor networks and machine learning models: 
+• Yassir Edraoui: Lead IoT Developer. Designed a low-power soil sensor prototype during a 
+university hackathon, winning 1st place in sustainability tech. 
+• Fahd Azouz: AI/ML Engineer. Developed a predictive irrigation model for a capstone project, 
+achieving 92% accuracy in water usage forecasting. 
+• Manal Seghir: Finance Focus on Sustainable business models and agricultural economics. 
+Develops pricing strategies and negotiates partnerships (e.g., Orange Morocco, OCP Group). 
+• Soukaina Essaidi: Systems Architect. Built a blockchain-based resource-tracking system for a 
+class project, later published in a student tech journal. 
+• Anass El Houcini: Lean budgeting and resource allocation. Manages budgets, tracks cost-per-
+liter-saved metrics, and designs water conservation incentives. 
+Advisory Support 
+To bridge domain gaps, we are actively collaborating with: 
+• Abdelhamid Khalil, Faculty Advisor: Expert in Entrepreneurship and sustainable development 
+at AUI. 
+Impact Metrics 
+• 2024 Pilot: Reduce water waste by 25% across 200 farms. 
+• 2027: Scale to 1.5 million farmers, saving 1.2 billion cubic meters of water annually. 
+ 

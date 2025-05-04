@@ -1,0 +1,72 @@
+Desirability Analysis for Atlas WaterGuard 
+Customer Segments 
+Primary Segment: Smallholder Farmers 
+• Located in drought-prone regions such as Souss-Massa and Ben Guerir 
+• Currently using traditional irrigation methods that waste water 
+• Facing increasing water scarcity challenges due to climate change 
+• Often have limited technical knowledge but high practical agricultural expertise 
+• May have varying levels of literacy, requiring voice-based solutions 
+• Motivated by economic incentives that can improve their farm productivity 
+Secondary Segment: Government Agencies 
+• ONCA (Office National du Conseil Agricole) 
+• Ministry of Agriculture 
+• Seeking technology solutions to achieve National Irrigation Strategy goals 
+• Need data-driven approaches to monitor and enforce water quotas 
+• Looking for scalable technologies to implement across multiple regions 
+Value Proposition 
+Atlas WaterGuard addresses critical customer needs through: 
+1. Water Conservation with Economic Benefits: The unique "Water Credit" system transforms 
+conservation into immediate economic value by rewarding farmers with mobile credits 
+redeemable for agricultural inputs (drought-resistant seeds, fertilizers). This creates a direct 
+link between responsible water usage and financial benefit. 
+2. Appropriate Technology Design: A voice-based mobile app accommodates varying literacy 
+levels, while solar-powered IoT soil sensors eliminate concerns about electricity access in 
+remote areas. 
+3. Integration with Existing Systems: By connecting with RAMED and National Land Registry 
+systems, the solution integrates into established government frameworks for more equitable 
+resource distribution. 
+4. Demonstrated Impact: Pilot projects have already shown a 35% reduction in water use for 
+citrus farms, providing tangible evidence of effectiveness. 
+5. Cost-Effective Solution: Sensors cost 60% less than competitor models, making the 
+technology accessible to smallholder farmers with limited resources. 
+6. Knowledge Sharing Platform: The farmer forum creates a community for discussing 
+agricultural trends and best practices, adding social value beyond the technical solution. 
+Customer Relationships 
+Atlas WaterGuard will establish and maintain relationships with farmers through: 
+1. Personalized Assistance: Initial on-site setup and training will ensure proper installation and 
+usage understanding. 
+2. Ongoing Support: A combination of in-person visits and remote assistance through the voice
+based app. 
+3. Community Building: The forum feature enables peer-to-peer learning and creates a sense of 
+community among users. 
+4. Data Feedback Loop: Regular updates with water-saving achievements and credit 
+accumulation will reinforce the value proposition. 
+5. Government Partnerships: Working through established agricultural extension services to 
+build credibility and trust. 
+Channels 
+Effectively reaching the target market through: 
+1. Direct Outreach: Partnering with local agricultural cooperatives and community leaders to 
+introduce the solution. 
+2. Agricultural Extension Services: Leveraging existing ONCA networks to demonstrate the 
+technology to potential users. 
+3. Demonstration Farms: Creating showcase installations where farmers can see the technology 
+in action before committing. 
+4. Mobile Phone Distribution: Utilizing existing telecom partnerships (e.g., Orange Morocco) for 
+app distribution. 
+5. Government Programs: Integrating with official water conservation initiatives to reach 
+broader audiences. 
+Validation of Desirability 
+The desirability of Atlas WaterGuard in Morocco is supported by: 
+1. Proven Impact: Pilot projects showing 35% water reduction in actual Moroccan farms 
+demonstrates the solution works in the local context. 
+2. Alignment with National Priorities: Morocco's National Irrigation Strategy explicitly 
+prioritizes water conservation technologies. 
+3. Economic Incentives: The Water Credit system addresses farmers' financial concerns while 
+promoting conservation. 
+4. Accessible Design: Voice-based interface and solar power accommodate the realities of rural 
+Moroccan agriculture. 
+5. Local Knowledge: The team's connection to Morocco (as evident by team members' names) 
+suggests strong understanding of local farming contexts. 
+This desirability analysis demonstrates that Atlas WaterGuard addresses real needs of Moroccan 
+farmers with an appropriate solution that provides both environmental and economic benefits, 
+making it well-positioned for adoption in the target market. 
